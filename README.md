@@ -1,1 +1,2 @@
-# Ejercicio02
+# GERAS
+nose no estudio
